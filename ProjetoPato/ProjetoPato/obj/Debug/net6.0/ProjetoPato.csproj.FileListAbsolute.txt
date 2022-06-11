@@ -1,0 +1,15 @@
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\bin\Debug\net6.0\ProjetoPato.exe
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\bin\Debug\net6.0\ProjetoPato.deps.json
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\bin\Debug\net6.0\ProjetoPato.runtimeconfig.json
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\bin\Debug\net6.0\ProjetoPato.dll
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\bin\Debug\net6.0\ProjetoPato.pdb
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\obj\Debug\net6.0\ProjetoPato.csproj.AssemblyReference.cache
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\obj\Debug\net6.0\ProjetoPato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\obj\Debug\net6.0\ProjetoPato.AssemblyInfoInputs.cache
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\obj\Debug\net6.0\ProjetoPato.AssemblyInfo.cs
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\obj\Debug\net6.0\ProjetoPato.csproj.CoreCompileInputs.cache
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\obj\Debug\net6.0\ProjetoPato.dll
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\obj\Debug\net6.0\refint\ProjetoPato.dll
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\obj\Debug\net6.0\ProjetoPato.pdb
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\obj\Debug\net6.0\ProjetoPato.genruntimeconfig.cache
+D:\Users\RCavicch\Documents\GitHub\UseACabeca_Padroes-de-Projetos\ProjetoPato\ProjetoPato\obj\Debug\net6.0\ref\ProjetoPato.dll
